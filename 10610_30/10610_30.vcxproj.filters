@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="11047_coin0.cpp">
+    <ClCompile Include="10630_30.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

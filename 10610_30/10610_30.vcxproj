@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DCB3CF37-AD3D-4B7E-9105-5CA846CA75CA}</ProjectGuid>
+    <ProjectGuid>{BFA9D4B9-0C07-4EDF-91E8-11031766625E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>AlgorithmStudy</RootNamespace>
+    <RootNamespace>My10610_30</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11047_coin0.cpp" />
+    <ClCompile Include="10630_30.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
