@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 //**정수론 : 각 자리 합이 3의 배수이면 그 숫자는 3의 배수이다!
 using namespace std;
